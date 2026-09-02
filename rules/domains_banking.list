@@ -1,9 +1,9 @@
 # NAME: domains_banking.list
 # AUTHOR: misha-tgshv
 # REPO: https://github.com/misha-tgshv/shadowrocket-configuration-file
-# UPDATED: 2026-09-01 05:42:55 MSK
+# UPDATED: 2026-09-02 05:03:42 MSK
 # SOURCE: https://www.cbr.ru/banking_sector/credit/cowebsites/
-# TOTAL: 1036
+# TOTAL: 1041
 DOMAIN-SUFFIX,1.psbank.ru
 DOMAIN-SUFFIX,13.alfabank.ru
 DOMAIN-SUFFIX,131.ru
@@ -214,6 +214,7 @@ DOMAIN-SUFFIX,coins.tsbnk.ru
 DOMAIN-SUFFIX,columbus.gift-cards.ru
 DOMAIN-SUFFIX,comfortcredit.ru
 DOMAIN-SUFFIX,commerzbank.ru
+DOMAIN-SUFFIX,compasrnko.ru
 DOMAIN-SUFFIX,corona-perevod.com
 DOMAIN-SUFFIX,coronaperevod.com
 DOMAIN-SUFFIX,corp-lkk.norvikbank.ru
@@ -265,7 +266,6 @@ DOMAIN-SUFFIX,doncombank.ru
 DOMAIN-SUFFIX,donkombank.ru
 DOMAIN-SUFFIX,donteksbank.ru
 DOMAIN-SUFFIX,dp.sngb.ru
-DOMAIN-SUFFIX,dsrnko.ru
 DOMAIN-SUFFIX,dtb1.ru
 DOMAIN-SUFFIX,earco.ru
 DOMAIN-SUFFIX,eatpbank.ru
@@ -300,6 +300,7 @@ DOMAIN-SUFFIX,festival.gift-cards.ru
 DOMAIN-SUFFIX,fifa.alfabank.ru
 DOMAIN-SUFFIX,file.rshb.ru
 DOMAIN-SUFFIX,filebox-test.alfabank.ru
+DOMAIN-SUFFIX,fin-state.ru
 DOMAIN-SUFFIX,finambank.ru
 DOMAIN-SUFFIX,finance.ozon.ru
 DOMAIN-SUFFIX,finbank.ru
@@ -686,6 +687,7 @@ DOMAIN-SUFFIX,portal-da.ru
 DOMAIN-SUFFIX,portal.bank-hlynov.ru
 DOMAIN-SUFFIX,pos.rsb.ru
 DOMAIN-SUFFIX,postcard.alfabank.ru
+DOMAIN-SUFFIX,pr-pay.ru
 DOMAIN-SUFFIX,primbank.ru
 DOMAIN-SUFFIX,priobye.ru
 DOMAIN-SUFFIX,priovtb.com
@@ -742,6 +744,7 @@ DOMAIN-SUFFIX,res.pervbank.ru
 DOMAIN-SUFFIX,research.alfabank.ru
 DOMAIN-SUFFIX,research.gazprombank.ru
 DOMAIN-SUFFIX,resocreditbank.ru
+DOMAIN-SUFFIX,resortbank.ru
 DOMAIN-SUFFIX,retail.etf-int.ru
 DOMAIN-SUFFIX,retail.rshb.ru
 DOMAIN-SUFFIX,review.kamkombank.ru
@@ -758,6 +761,7 @@ DOMAIN-SUFFIX,rko.norvik.ru
 DOMAIN-SUFFIX,rncofl.ru
 DOMAIN-SUFFIX,rncoluminis.ru
 DOMAIN-SUFFIX,rnko.ru
+DOMAIN-SUFFIX,rnko.vkpay.ru
 DOMAIN-SUFFIX,rosbank-auto.ru
 DOMAIN-SUFFIX,rosbank.ru
 DOMAIN-SUFFIX,roscap.com
@@ -797,6 +801,7 @@ DOMAIN-SUFFIX,sberclickstream.ru
 DOMAIN-SUFFIX,sberindex.ru
 DOMAIN-SUFFIX,sberminor.ru
 DOMAIN-SUFFIX,sberprime.sber.ru
+DOMAIN-SUFFIX,sbersova.ru
 DOMAIN-SUFFIX,sbertv.ru
 DOMAIN-SUFFIX,sbionline.ru
 DOMAIN-SUFFIX,sbnk.ru
